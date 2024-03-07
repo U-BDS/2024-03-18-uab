@@ -9,5 +9,5 @@ Workshop website can be found [here](https://u-bds.github.io/2024-03-18-uab/)
 
 ## Registration
 
-Register at TBD.
+Registration can be found [here](https://events.uab.edu/en/6g1Y8if7/u-bds-software-carpentry-workshop-4a2ePZSMon/overview).
 
